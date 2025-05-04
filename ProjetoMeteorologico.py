@@ -24,6 +24,7 @@ def aps():
 
 while True:
     aps()
+    print("Bem-vindo ao PyClima!\n")
     location = input("> Digite sua cidade: ")
     clear()
     aps()
